@@ -5,7 +5,7 @@
 <span>
 🔭 I'm currently working on Various <b>Minecraft plugins and mods </b><br>
 🌱 I'm currently learning <b>NMS development and TypeScript </b><br>
-👯 I'm looking to collaborate on <b>Minecraft plugins and mods</b><br>
+👯 I'm open to developing custom <b>Minecraft plugins and mods</b><br>
 💬 Ask me about <b>Star wars or Minecraft</b>
 </span>
 
